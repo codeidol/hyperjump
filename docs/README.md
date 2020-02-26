@@ -6,11 +6,11 @@ Our primary focus lies with Windows development at the moment, but we are intend
 
 Please note that we are in a **very early** stage in development so this project is quite unstable.
 
-If you'd like to contribute, you can do so of course! We are quite happy if you're willing to join our ranks. Before that, please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) to gain information about the project.
+If you'd like to contribute, you can do so of course! We are quite happy if you're willing to join our ranks. Before that, please read [CONTRIBUTING.md](https://github.com/nextgenstar/engine/blob/master/docs/CONTRIBUTING.md) to gain information about the project.
 
-This project adheres to the Contributor Covenant [Code of Conduct](docs/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nextgenstar@github.com.
+This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/nextgenstar/engine/blob/master/docs/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nextgenstar@github.com.
 
-The engine uses [MIT License](docs/LICENSE.md) so it is open source and completely free.
+The engine uses [MIT License](https://github.com/nextgenstar/engine/blob/master/docs/LICENSE.md) so it is open source and completely free.
 
 If you require any help or assistance, please contact us on nextgenstar@github. Have fun!
 
@@ -20,7 +20,7 @@ The development takes place primarily in `master` branch.
 
 In order to keep our repository clean, please do NOT commit directly to `master`. If you are intending to add a new feature or fix, please create a fork from latest `master`, then create a pull request for review.
 
-Please find more information in [PULL_REQUESTS_MANAGEMENT.md](docs/PULL_REQUESTS_MANAGEMENT.md) how the reviewing should be done.
+Please find more information in [PULL_REQUESTS_MANAGEMENT.md](https://github.com/nextgenstar/engine/blob/master/docs/PULL_REQUESTS_MANAGEMENT.md) how the reviewing should be done.
 
 ### First Steps
 
@@ -32,7 +32,7 @@ Before proceeding please go through this checklist to see what tools you need to
 
 - Install **[GitHub for Windows](https://windows.github.com/)** then **[fork and clone our repository](https://guides.github.com/activities/forking/)**. To use Git from the command line, see the [Setting up Git](https://help.github.com/articles/set-up-git/) and [Fork a Repo](https://help.github.com/articles/fork-a-repo/) articles.
 - Install **[CMake for Windows]**(https://cmake.org/download/). To build **Engine** you don't have to run CMake directly. Under scripts\ folder you can find scripts to configure the project automatically with minimal effort.
-- Install **[Visual Studio 2017]**(https://visualstudio.microsoft.com/downloads/). All desktop editions of Visual Studio 2017 can build Blackbox, including [Visual Studio Community 2017](http://www.visualstudio.com/products/visual-studio-community-vs), which is free for small teams and individual developers.
+- Install **[Visual Studio 2017]**(https://visualstudio.microsoft.com/downloads/). All desktop editions of Visual Studio 2017 can build the Engine, including [Visual Studio Community 2017](http://www.visualstudio.com/products/visual-studio-community-vs), which is free for small teams and individual developers.
 
 ##### For Linux
 
@@ -49,8 +49,7 @@ Please follow these steps to configure your local development environment.
 ##### For Windows
 
 - Open your source folder in Explorer and execute **configure.cmd**. This automatic script shall check and configure your development environment.
-- Load the project into Visual Studio by double-clicking on the **targets/blackbox.sln** file. Right click on the **editor** target and select **Build**.
-- After compiling finishes, you can load the editor from Visual Studio by setting your startup project to **editor** and pressing **F5** to debug.
+- Load the project into Visual Studio by double-clicking on the **targets/engine.sln** file. Right click on the **editor** target and select **Build**.
 
 ##### For Linux/Mac
 
