@@ -1,0 +1,24 @@
+#######################################################################
+#
+# Commit message recommendation
+# -----------------------------
+#
+# [MODULE] A short but descriptive summary
+#
+# A comprehensible description of why you did this work. Do not limit
+# yourself here.
+#
+# The width of the description is arbitrary, but it's a good idea to 
+# wrap the text by 72 chars.
+#
+# Examples:
+# ---------
+#
+# - [MODULE] tag should be the name of a CMake module in the engine
+#   source code in all caps, e.g. [FOUNDATION]
+# - The summary should be imperative (not past tense) and not end with
+#   period, e.g. Add timer class
+# - Description of a commit should explain why a change was made.
+#   e.g. The engine requires timing to function properly.
+#
+#######################################################################
