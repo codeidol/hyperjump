@@ -6,11 +6,11 @@ Our primary focus lies with Windows development at the moment, but we are intend
 
 Please note that we are in a **very early** stage in development so this project is quite unstable.
 
-If you'd like to contribute, you can do so of course! We are quite happy if you're willing to join our ranks. Before that, please read [CONTRIBUTING.md](https://github.com/nextgenstar/engine/blob/master/docs/CONTRIBUTING.md) to gain information about the project.
+If you'd like to contribute, you can do so of course! We are quite happy if you're willing to join our ranks. Before that, please read [CONTRIBUTING](https://github.com/codeidol/engine/blob/master/CONTRIBUTING) to gain information about the project.
 
-This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/nextgenstar/engine/blob/master/docs/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nextgenstar@github.com.
+This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/codeidol/engine/blob/master/CODE_OF_CONDUCT). By participating, you are expected to uphold this code. Please report unacceptable behavior to nextgenstar@github.com.
 
-The engine uses [MIT License](https://github.com/nextgenstar/engine/blob/master/docs/LICENSE.md) so it is open source and completely free.
+The engine uses [MIT License](https://github.com/codeidol/engine/blob/master/LICENSE) so it is open source and completely free.
 
 If you require any help or assistance, please contact us on nextgenstar@github. Have fun!
 
@@ -20,7 +20,7 @@ The development takes place primarily in `master` branch.
 
 In order to keep our repository clean, please do NOT commit directly to `master`. If you are intending to add a new feature or fix, please create a fork from latest `master`, then create a pull request for review.
 
-Please find more information in [PULL_REQUESTS_MANAGEMENT.md](https://github.com/nextgenstar/engine/blob/master/docs/PULL_REQUESTS_MANAGEMENT.md) how the reviewing should be done.
+Please find more information in [PULL_REQUESTS_MANAGEMENT](https://github.com/codeidol/engine/blob/master/PULL_REQUESTS_MANAGEMENT) how the reviewing should be done.
 
 ### First Steps
 
