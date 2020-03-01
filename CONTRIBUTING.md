@@ -42,7 +42,7 @@ Your contribution can be of numerous forms. We currently accept two ways to cont
 
 We gladly accept __[Pull Requests]__. Pull requests let you tell others about changes you have pushed to a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository. __Pull request is a preferred way to submit your work__ - it makes reviewing and merging your contribution much easier.
 
-For more information please read [PULL_REQUESTS_MANAGEMENT](https://github.com/codeidol/engine/blob/master/PULL_REQUESTS_MANAGEMENT).
+For more information please read [PULL_REQUESTS_MANAGEMENT](https://github.com/codeidol/engine/blob/master/PULL_REQUESTS_MANAGEMENT.md).
 
 ### Patches
 
@@ -77,4 +77,4 @@ Finding a good project to start with can be a challenge, because when starting o
 
 # See Also
 
-- [Rules for managing Pull Requests](https://github.com/codeidol/engine/blob/master/PULL_REQUESTS_MANAGEMENT)
+- [Rules for managing Pull Requests](https://github.com/codeidol/engine/blob/master/PULL_REQUESTS_MANAGEMENT.md)
