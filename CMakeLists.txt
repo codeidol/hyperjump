@@ -30,4 +30,4 @@ include(SetupCompiler)
 # Modules
 #
 
-add_subdirectory("source/runtime/foundation")
+# add_subdirectory(path/to/module)
