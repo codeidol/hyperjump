@@ -8,9 +8,9 @@ Please note that we are in a **very early** stage in development so this project
 
 If you'd like to contribute, you can do so of course! We are quite happy if you're willing to join our ranks. Before that, please read [CONTRIBUTING](https://github.com/codeidol/engine/blob/master/CONTRIBUTING.md) to gain information about the project.
 
-This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/codeidol/engine/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nextgenstar@github.com.
+This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/codeidol/engine/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to codeidol@github.com.
 
-The engine uses [MIT License](https://github.com/codeidol/engine/blob/master/LICENSE.md) so it is open source and completely free.
+Please review the [license agreement](https://github.com/codeidol/engine/blob/master/LICENSE.md) before proceeding! This is an open source project and completely free but it is not permitted to use for commercial purposes.
 
 If you require any help or assistance, please contact us on nextgenstar@github. Have fun!
 
