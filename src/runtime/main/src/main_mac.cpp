@@ -1,10 +1,18 @@
 #include "main.h"
+#include "logging.h"
 
-#ifdef __APPLE__
-int _gd_main(int argc, char** argv)
+static int _main(int argc, char **argv)
 {
 	(void)(argc);
 	(void)(argv);
-	return 0;
+	LOG("\n");
+	return main(argc, argv);
 }
-#endif
+
+int main(int argc, char** argv)
+{
+	(void)(argc);
+	(void)(argv);
+	LOG("\n");
+	return _main(argc, argv);
+}

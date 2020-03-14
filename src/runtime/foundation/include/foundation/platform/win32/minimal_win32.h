@@ -49,7 +49,12 @@
 #define NOTAPE
 
 #ifdef _MSC_VER
+// Disable warnings that we don't have direct control over...
 #pragma warning(push)
+// Disable C5039: `TpSetCallbackCleanupGroup`: pointer or reference to
+// potentially throwing function passed to extern C function under
+// -EHc. Undefined behavior may occur if this function throws an
+// exception.
 #pragma warning(disable : 5039)
 #endif
 #include <windows.h>
@@ -57,10 +62,3 @@
 #pragma warning(pop)
 #endif
 
-#ifdef min
-#undef min
-#endif
-
-#ifdef max
-#undef max
-#endif

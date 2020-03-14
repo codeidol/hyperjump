@@ -6,7 +6,7 @@ static int _main(int argc, char **argv)
 {
 	(void)(argc);
 	(void)(argv);
-	LOGV("-- <_gd_main,%d,%p> running...\n", argc, argv);
+	LOGV("[%d, %p]\n", argc, argv);
 	return main(argc, argv);
 }
 
@@ -17,7 +17,7 @@ extern int WINAPI WinMain(HINSTANCE hCurrInst, HINSTANCE hPrevInst, LPSTR lpCmdL
 	(void)(lpCmdLine);
 	(void)(iCmdShow);
 
-	LOGV("-- <WinMain,%p,%p,%p,%d> running...\n", hCurrInst, hPrevInst, lpCmdLine, iCmdShow);
+	LOGV("[%p, %p, %p, %d]\n", hCurrInst, hPrevInst, lpCmdLine, iCmdShow);
 	return _main(0, 0);
 }
 
